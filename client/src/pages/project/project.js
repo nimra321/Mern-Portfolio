@@ -33,7 +33,7 @@ const Project = () => {
                             <div className='ad-title'>
                                 <h5 className='text-uppercase'>WhatsApp Clone</h5>
                             </div>
-                            <a className='ad-btn' href='#' >View</a>
+                            <a className='ad-btn' href='https://github.com/nimra321/WhatsappClone' >View</a>
                         </div>
                         
                     </div>
@@ -54,7 +54,7 @@ const Project = () => {
                             <div className='ad-title'>
                                 <h5 className='text-uppercase'>ChatGPT Clone</h5>
                             </div>
-                            <a className='ad-btn' href='#' >View</a>
+                            <a className='ad-btn' href='https://github.com/nimra321/ChatGPT' >View</a>
                         </div>
                         
                     </div>
@@ -75,7 +75,7 @@ const Project = () => {
                             <div className='ad-title'>
                                 <h5 className='text-uppercase'>Medicine Inventory</h5>
                             </div>
-                            <a className='ad-btn' href='view' >View</a>
+                            <a className='ad-btn' href='https://github.com/nimra321/MedicineInventory' >View</a>
                         </div>
                         
                     </div>
